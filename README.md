@@ -1,3 +1,3 @@
 # digit-recognotion
 
-Simple formation of neural network from scratch with mathemetical formula, without any library for the background maths to undersatnd the working of digit recognition properly.
+A simple and basic neural network from scratch using mathematical formulas, without relying on any libraries, to gain a thorough understanding of how digit recognition works
